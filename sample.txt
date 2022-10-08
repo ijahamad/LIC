@@ -1,5 +1,3 @@
-utfyutd uiyftiyreyuretvu5re.
-Git Commands I Learnt today:
-1) git init
-2) git add
-3) git commit
+
+ok go head with git learning.
+>>>>>>> 533a765294dc590e7c730ff12f1990d96fbe9be0
